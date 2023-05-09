@@ -1,0 +1,12 @@
+
+body{
+display: block;
+border: 2px rgb(255, 0, 0) solid;
+margin: 05rem;
+
+}
+#button{
+background-color: red;
+border-bottom: 10px
+
+}
